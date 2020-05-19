@@ -12,6 +12,8 @@ There will always be discussions: we care for our products and always want the b
 
 Discussions with 6 people is no replacement for poor preparation
 
+<!-- uncertainty -->
+
 ## Rules of the Game
 
 - Bet before any discussion. One person is allowed to introduce the vote.
